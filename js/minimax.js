@@ -1,5 +1,4 @@
+// Future implementation 
+const minimax = () => {
 
-
-const aiPlay = () => {
-    console.log('aiPlay called')
 }

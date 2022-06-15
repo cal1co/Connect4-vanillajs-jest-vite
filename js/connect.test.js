@@ -86,4 +86,6 @@ test('PC should play if game set to single player', () => {
     expect(pcPlay()).toBe('pc-play')
 })
 
-
+test(`Players can't continue playing if a winner has been declared`, () => {
+    
+})

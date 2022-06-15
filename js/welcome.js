@@ -12,6 +12,7 @@ WELCOME TO
 const help = () => {
     console.log('1. Place your piece by calling function play(column) with the column you select as your parameter.')
     console.log('2. Toggle between single and multiplayer by calling pcPlayer(true) or pcPlayer(false).')
-    console.log('3. If you need help, use help().')
+    console.log(`3. If you'd like to see the current state of the board, run gameBoard()`)
+    console.log('4. If you need help, please use help().')
 } // help()
 help()
