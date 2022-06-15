@@ -4,7 +4,7 @@
 // rightDiagonal validates win correctly
 // row validates win correctly
 // col validates win correctly
-const {play, checkWin} = require('./connect.js')
+const {play, checkWin, pcPlay} = require('./connect.js')
 
 const testBoard = [
     [-1,0,0,0,0,0,0],
@@ -80,6 +80,10 @@ test('A player with a diagonal of four from top to bottom wins', () => {
 
 test('A player with a diagonal of four from bottom to top wins', () => {
     expect(checkWin([2,2], rightDiagonalWinBoard)).toBe('winner')
+})
+
+test('PC should play if game set to single player', () => {
+    expect(pcPlay()).toBe('pc-play')
 })
 
 

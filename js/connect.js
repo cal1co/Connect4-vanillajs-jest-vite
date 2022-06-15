@@ -142,9 +142,11 @@ const pcPlay = () => {
     console.log('Calculating best move...')
     console.log(`PC played column ${pcChoice}`)
     play(pcChoice)
+    return 'pc-play'
 } // pcPlay()
 
 module.exports = {
     play,
-    checkWin
+    checkWin,
+    pcPlay
 }
