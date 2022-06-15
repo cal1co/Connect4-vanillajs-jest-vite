@@ -1,7 +1,7 @@
 // Future implementation 
 const minimax = () => {
     // Scores:
-    // Depending on how many chips are aligned for a given player, a score is given.
+    // Depending on how many chips are aligned for a given player, a score is given. ie "closeness to victory"
 
     // Decision
     // Algorithm recursively performs a BFS, evaluating the best score attainable by both players depending on the next move(s) made.
