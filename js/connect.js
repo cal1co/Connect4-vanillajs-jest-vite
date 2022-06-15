@@ -151,7 +151,6 @@ const play = (col, inputBoard=board) => {
     }
     if (params.pcPlayer && (params.playerTurn === -1) && params.gameState){
         pcPlay()
-        return 'pc-turn'
     }
 } // play()
 

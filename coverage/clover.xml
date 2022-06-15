@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1655282323447" clover="3.2.0">
-  <project timestamp="1655282323447" name="All files">
-    <metrics statements="85" coveredstatements="83" conditionals="33" coveredconditionals="29" methods="12" coveredmethods="11" elements="130" coveredelements="123" complexity="0" loc="85" ncloc="85" packages="1" files="1" classes="1"/>
+<coverage generated="1655290277471" clover="3.2.0">
+  <project timestamp="1655290277471" name="All files">
+    <metrics statements="84" coveredstatements="82" conditionals="33" coveredconditionals="29" methods="12" coveredmethods="11" elements="129" coveredelements="122" complexity="0" loc="84" ncloc="84" packages="1" files="1" classes="1"/>
     <file name="connect.js" path="/Users/calicoalex/GlamCornerConnect4/pure-js-connect-4/js/connect.js">
-      <metrics statements="85" coveredstatements="83" conditionals="33" coveredconditionals="29" methods="12" coveredmethods="11"/>
+      <metrics statements="84" coveredstatements="82" conditionals="33" coveredconditionals="29" methods="12" coveredmethods="11"/>
       <line num="1" count="1" type="stmt"/>
       <line num="12" count="1" type="stmt"/>
       <line num="13" count="1" type="stmt"/>
@@ -82,13 +82,12 @@
       <line num="150" count="0" type="stmt"/>
       <line num="152" count="4" type="cond" truecount="5" falsecount="0"/>
       <line num="153" count="2" type="stmt"/>
-      <line num="154" count="2" type="stmt"/>
-      <line num="158" count="1" type="stmt"/>
+      <line num="157" count="1" type="stmt"/>
+      <line num="158" count="2" type="stmt"/>
       <line num="159" count="2" type="stmt"/>
       <line num="160" count="2" type="stmt"/>
       <line num="161" count="2" type="stmt"/>
-      <line num="162" count="2" type="stmt"/>
-      <line num="167" count="1" type="stmt"/>
+      <line num="164" count="1" type="stmt"/>
     </file>
   </project>
 </coverage>
