@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1655303006425" clover="3.2.0">
-  <project timestamp="1655303006425" name="All files">
-    <metrics statements="83" coveredstatements="80" conditionals="38" coveredconditionals="34" methods="12" coveredmethods="10" elements="133" coveredelements="124" complexity="0" loc="83" ncloc="83" packages="1" files="1" classes="1"/>
+<coverage generated="1655340077359" clover="3.2.0">
+  <project timestamp="1655340077359" name="All files">
+    <metrics statements="83" coveredstatements="79" conditionals="38" coveredconditionals="33" methods="12" coveredmethods="10" elements="133" coveredelements="122" complexity="0" loc="83" ncloc="83" packages="1" files="1" classes="1"/>
     <file name="connect.js" path="/Users/calicoalex/GlamCornerConnect4/pure-js-connect-4/js/connect.js">
-      <metrics statements="83" coveredstatements="80" conditionals="38" coveredconditionals="34" methods="12" coveredmethods="10"/>
+      <metrics statements="83" coveredstatements="79" conditionals="38" coveredconditionals="33" methods="12" coveredmethods="10"/>
       <line num="2" count="1" type="stmt"/>
       <line num="12" count="1" type="stmt"/>
       <line num="13" count="0" type="stmt"/>
@@ -54,7 +54,7 @@
       <line num="109" count="1" type="stmt"/>
       <line num="114" count="5" type="stmt"/>
       <line num="117" count="1" type="cond" truecount="1" falsecount="0"/>
-      <line num="118" count="7" type="cond" truecount="2" falsecount="0"/>
+      <line num="118" count="6" type="cond" truecount="1" falsecount="1"/>
       <line num="119" count="6" type="stmt"/>
       <line num="120" count="6" type="cond" truecount="1" falsecount="1"/>
       <line num="121" count="6" type="cond" truecount="2" falsecount="0"/>
@@ -77,15 +77,15 @@
       <line num="146" count="1" type="stmt"/>
       <line num="150" count="4" type="cond" truecount="1" falsecount="1"/>
       <line num="151" count="4" type="stmt"/>
-      <line num="154" count="1" type="stmt"/>
-      <line num="157" count="5" type="cond" truecount="5" falsecount="0"/>
+      <line num="154" count="0" type="stmt"/>
+      <line num="157" count="4" type="cond" truecount="5" falsecount="0"/>
       <line num="158" count="2" type="stmt"/>
       <line num="162" count="1" type="stmt"/>
-      <line num="163" count="3" type="stmt"/>
-      <line num="164" count="3" type="stmt"/>
-      <line num="165" count="3" type="stmt"/>
-      <line num="166" count="3" type="stmt"/>
-      <line num="167" count="3" type="stmt"/>
+      <line num="163" count="2" type="stmt"/>
+      <line num="164" count="2" type="stmt"/>
+      <line num="165" count="2" type="stmt"/>
+      <line num="166" count="2" type="stmt"/>
+      <line num="167" count="2" type="stmt"/>
       <line num="170" count="1" type="stmt"/>
     </file>
   </project>

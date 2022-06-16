@@ -13,3 +13,4 @@
 ## Goals 
 - Implement Minimax decision algorithm to beef up the competition. Alpha-beta pruning should be used along side other optimisation techniques such as a transposition table. My experience with the algorithm and these techniques have been successful in the past with tic-tac-toe. However, Connect Four is an infintely more complex game. 
 - Further DRY up code and refactor where applicable. Readability can also be improved.
+- Implement frontend with existing code

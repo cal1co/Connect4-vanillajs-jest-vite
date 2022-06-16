@@ -82,6 +82,3 @@ test('A player with a diagonal of four from bottom to top wins', () => {
     expect(checkWin([2,2], rightDiagonalWinBoard)).toBe('winner')
 })
 
-test('PC should play if game set to single player', () => {
-    expect(pcPlay()).toBe('pc-play')
-})
